@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'Vazir';
+  src: url('./assets/font/Vazir.ttf');
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Vazir', sans-serif;
+  direction: rtl;
+}
